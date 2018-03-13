@@ -5,7 +5,11 @@ chars = '''ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,./;'[]
 times = int(input('[.]Number of passwords?\n[.]'))
 length = int(input('[.]Password length?\n[.]'))
 
+<<<<<<< HEAD
 saumitra chauhan
+=======
+f = open('C:\Users\Amit singh\new folder\password.txt','w')
+>>>>>>> 2448c3ad178a94ecf0b84d3390852a300c8ad3c2
 
 for i in range(times):
 	password = ''
